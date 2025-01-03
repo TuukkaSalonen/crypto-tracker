@@ -1,0 +1,36 @@
+{
+  "rates": {
+    "2024-09-01": {
+      "metals": {
+        "gold": 1800.0,
+        "palladium": 2300.0,
+        "platinum": 1000.0,
+        "silver": 24.0
+      }
+    },
+    "2024-09-02": {
+      "metals": {
+        "gold": 1820.0,
+        "palladium": 2320.0,
+        "platinum": 1020.0,
+        "silver": 25.0
+      }
+    },
+    "2024-09-03": {
+      "metals": {
+        "gold": 1810.0,
+        "palladium": 2310.0,
+        "platinum": 1010.0,
+        "silver": 24.5
+      }
+    },
+    "2024-09-04": {
+      "metals": {
+        "gold": 1830.0,
+        "palladium": 2340.0,
+        "platinum": 1030.0,
+        "silver": 25.5
+      }
+    }
+  }
+}

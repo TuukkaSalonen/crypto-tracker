@@ -1,0 +1,69 @@
+.table-view .column-header-background .label {
+  -fx-alignment: center;
+  -fx-text-alignment: center;
+}
+
+.table-view {
+  -fx-background-radius: 5;
+  -fx-border-radius: 5;
+}
+
+.table-view .column-header-background {
+  -fx-background-radius: 5 5 0 0;
+}
+
+.table-view .column-header {
+  -fx-background-radius: 5 5 0 0;
+  /*-fx-border-color: transparent;*/
+}
+
+#resetTableButton {
+  -fx-background-radius: 5;
+}
+
+#updateButton {
+  -fx-background-radius: 5;
+}
+
+#searchButton {
+  -fx-background-radius: 5;
+}
+
+#resetChartButton {
+  -fx-background-radius: 5;
+}
+
+.combo-box {
+  -fx-background-radius: 5;
+  -fx-border-radius: 5;
+}
+
+.combo-box .list-view {
+  -fx-border-radius: 5;
+  -fx-background-radius: 5;
+}
+
+.check-combo-box {
+  -fx-background-radius: 5;
+  -fx-border-radius: 5;
+}
+
+.date-picker {
+  -fx-background-radius: 5;
+  -fx-border-radius: 5;
+}
+
+.date-picker > .text-field {
+  -fx-background-radius: 5 0 0 5;
+}
+
+.date-picker-popup {
+  -fx-background-radius: 5;
+  -fx-border-radius: 5;
+}
+
+#yAxis .axis-label {
+  -fx-translate-x: -10px;
+  -fx-alignment: center;
+  -fx-text-alignment: center;
+}
